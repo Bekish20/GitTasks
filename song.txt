@@ -1,4 +1,4 @@
-Du (du hast, du hast, du hast, du hast)
+﻿Du (du hast, du hast, du hast, du hast)
 Hast viel geweint (geweint, geweint, geweint, geweint),
 Im Geist getrennt (getrennt, getrennt, getrennt, getrennt),
 Im Herz vereint (vereint, vereint, vereint, vereint).
@@ -55,3 +55,10 @@ Ist Fluch und Segen.
 Deutschland! Meine Liebe
 Kann ich dir nicht geben.
 Deutschland!
+
+(Du. Ich. Wir. Ihr.)
+(Du) Übermächtig, überflüssig,
+(Ich) Übermenschen, überdrüssig,
+(Wir) Wer hoch steigt, der wird tief fallen,
+(Ihr) Deutschland, Deutschland über allen.
+
